@@ -1,4 +1,4 @@
-#Photo Portfolio
+# Photo Portfolio
 
 > a simple project to practice Git and Github from course on Udemy
 
